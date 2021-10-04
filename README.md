@@ -1,5 +1,5 @@
 # Plant Pathology
-This repo is a ResNet50 model trained on Plant Pathalogy2020 FGCV7 Dataset (https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview)
+This repo is a ResNet50 model trained on Plant Pathalogy2020 FGVC7 Dataset (https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview)
 
 Key Highlights :- 
 
